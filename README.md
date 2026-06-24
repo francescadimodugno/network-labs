@@ -10,6 +10,7 @@ This repository contains networking projects and labs created with Cisco Packet 
 - DHCP and DHCP relay
 - ACLs
 - NAT/PAT
+- DNS and Web Servers
 - Multi-Site Network Design
 - WAN Redundancy Testing and Failover
 
